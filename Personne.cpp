@@ -29,6 +29,6 @@ void Personne::afficher() const // On créé une méthode constante pour affiche
     cout << "Nom: " << m_nom << endl;
     cout << "Prenom :"<<m_prenom << endl;
     cout << "Age :"<<m_age << endl;
-    cout << "Profession : " << m_profession <<< endl;
-    cout << "Adresse: " << m_adresse <<endl<<< endl;
+    cout << "Profession : " << m_profession << endl;
+    cout << "Adresse: " << m_adresse <<endl;
 }
