@@ -4,7 +4,7 @@ using namespace std;
 int main ()
 {
     // Création des 4 personnages Personne 
-    Personnes arko ("SARKOZY", "Nicolas", 62, "Avocat"); // Création de l'objet sarko 
+    Personne sarko ("SARKOZY", "Nicolas", 62, "Avocat"); // Création de l'objet sarko 
     Personne carlita ("BRUNI", "Carla", 50, "Mannequin"); // Création de l'objet carlita  
     Personne manu("MACRON", "Emmanuel", 48, "Banquier"); // Création de l'objet manu  
     Personne bibi("TROGNEUX", "Brigitte", 64, "Enseignante"); // Création de l'objet bibi
