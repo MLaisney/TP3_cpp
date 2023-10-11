@@ -19,6 +19,8 @@ int main ()
     carlita.afficher();
     manu.afficher();
     bibi.afficher();
+        
+    //ajout
     flamby.afficher();
     sego.afficher();
     jeanmimi.afficher();
@@ -34,6 +36,14 @@ int main ()
     carlita.changer_travail ("Chanteuse"); // Faut croire que Carla BRUNI sait chanter ! 
     manu.changer_travail ("President de la Republique"); // Emmanuel MACRON devient Président 
     bibi.changer_travail ("Premiere Dame"); // Brigitte MACRON devient la première Dame de France
+    sego.changer_travail("Retraite"); //Segolaine ROYAL devient une retraitée
+        
+    //ajout
+    flamby.changer_travail("Retraitee"); // François HOLLANDE devient un retraité
+    aure.marier("BLANQUER"); // Aurélia DEVOS se marie à Jean-Michel BLAQUER 
+    jeanmimi.marier("DEVOS"); // Comme précédemment
+    sego.anniversaire(); // Ségolène ROYAL a 1 an de plus 
+    jeanmimi.anniversaire(); // Jean-Michel BLANQUER a 1 an de plus
     
     // Affichage des informations des 4 personnages après l'utilisation des objets
     cout << "On affiche les informations des 4 personnages apres l'utilisation des objets" << endl; 
@@ -41,6 +51,8 @@ int main ()
     carlita.afficher();
     manu.afficher();
     bibi.afficher();
+    
+    //ajout
     flamby.afficher();
     sego.afficher();
     jeanmimi.afficher();
