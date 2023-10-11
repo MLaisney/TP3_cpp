@@ -9,9 +9,9 @@ int main ()
     Personne manu("MACRON", "Emmanuel", 48, "Banquier"); // Création de l'objet manu  
     Personne bibi("TROGNEUX", "Brigitte", 64, "Enseignante"); // Création de l'objet bibi
     Personne flamby ("HOLLANDE", "Francois", 67, "Fonctionnaire"); // Création de l'objet flamby 
-    Personne sego ("ROYAL", "Nicolas", 68, "Ministre"); // Création de l'objet sego 
-    Personne jeanmimi ("BLANQUER", "Nicolas", 57, "Ministre"); // Création de l'objet jeanmimi 
-    Personne aure ("DEVOS", "Nicolas", 42, "Ministre"); // Création de l'objet aure
+    Personne sego ("ROYAL", "Segolene", 68, "Ministre"); // Création de l'objet sego 
+    Personne jeanmimi ("BLANQUER", "Jean-Michel", 57, "Ministre"); // Création de l'objet jeanmimi 
+    Personne aure ("DEVOS", "Aurelia", 42, "Ministre"); // Création de l'objet aure
 
     // Affichage des informations des 4 personnages avant l'utilisation des objets
     cout << "On affiche les informations des 4 personnages avant l'utilisation des objets" << endl; 
