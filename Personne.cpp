@@ -32,3 +32,9 @@ void Personne::afficher() const // On créé une méthode constante pour affiche
     cout << "Profession : " << m_profession << endl;
     cout << "Adresse: " << m_adresse <<endl;
 }
+
+//Nouvelle méthode
+void Personne::separation (string nouveau_nom)
+{
+    m_nom = nouveau_nom;
+}

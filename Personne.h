@@ -16,6 +16,8 @@ public:
     void marier(std::string nouveau_nom);
     void afficher() const; // On crée un prototype pour notre méthode
 
+    void separation(std::string nouveau_nom);
+
     // Attibuts
 private:
     std::string m_nom;
