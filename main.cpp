@@ -45,7 +45,7 @@ int main ()
     sego.anniversaire(); // Ségolène ROYAL a 1 an de plus 
     jeanmimi.anniversaire(); // Jean-Michel BLANQUER a 1 an de plus
     flamby.separation("ROYAL"); // François HOLLANDE se sépare de Ségolène ROYAL (Je le comprends)
-    jeanmimi.separation("DEVOS"); // Jean-Michel BLANQUER se sépare de Aurélia DEVOS 
+    jeanmimi.separation("DEVOS"); // Jean-Michel BLANQUER se sépare de Aurélia DEVOS (compréhensible)
 
     // Affichage des informations des 4 personnages après l'utilisation des objets
     cout << "On affiche les informations des 4 personnages apres l'utilisation des objets" << endl; 
