@@ -1,5 +1,6 @@
 #ifndef Personne_h
 #define Personne_h
+#include "Personne.cpp"
 #include <string>
 
 class Personne
