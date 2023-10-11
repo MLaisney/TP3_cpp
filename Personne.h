@@ -1,6 +1,5 @@
 #ifndef Personne_h
 #define Personne_h
-#include "Personne.cpp"
 #include <string>
 
 class Personne
@@ -24,4 +23,5 @@ private:
     std::string m_profession; std::string m_adresse;
 };
 
+#include "Personne.cpp"
 #endif
